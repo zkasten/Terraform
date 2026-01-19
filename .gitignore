@@ -1,0 +1,8 @@
+# Ignore all terraform internal files in any subdirectory
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.backup
+**/*.tfvars
+**/*.tfvars.json
+**/tfplan
+**/.terraform.lock.hcl
